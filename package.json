@@ -1,0 +1,17 @@
+{
+  "name": "workradar",
+  "version": "1.0.0",
+  "description": "WorkRadar — AI Academic Workload Intelligence Platform",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "workradar",
+    "academic-intelligence",
+    "workload-planner"
+  ],
+  "author": "ziyanoushad96",
+  "license": "MIT"
+}
